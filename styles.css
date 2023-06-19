@@ -1,2 +1,41 @@
 
 /* Your CSS Code here. */
+table,th,td{
+   
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 0 15px;
+}
+th{
+    background-color: rgb(180, 92,77);
+    height: 30px;
+    width: 100px;
+    text-align: center;
+	color: white;
+	
+}
+th{
+    text-align: left;
+    
+}
+tr{
+text-align: right;
+}
+.wst,.slv,.cst{
+    text-align: left;
+}
+/* 218 150 148
+242 220 219
+217
+217
+217 */
+.one{
+    background-color: rgb(218,150,148);
+	color:white;
+}
+.two{
+    background-color: rgb(242,220,219);
+}
+.three{
+    background-color: rgb(217,217,217);
+}
